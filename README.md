@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" />
+</p>
+
 # 👋 Hi, I'm Abishek
 
 🧠 AI & Machine Learning Engineer focused on building **production-ready intelligent systems**.
